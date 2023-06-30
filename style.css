@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.web_name{
+    color : #ad741e;
+    text-align: center;
+}
+
+
+nav{
+    background-color: #ad741e8a;
+
+}
+
+.navbar{
+background-color: rgb(255, 220, 65);
+color: rgb(204, 172, 31);
+border: 8px;
+margin: 5px;
+padding: 5px;
+}
+
+
+#search{
+    cursor: zoom-out; 
+}
+button{
+    background-color: rgb(255, 166, 0);
+    text-align: left;
+}
+a{
+    padding: 10px;
+    color: #ad741e;
+}
+
+.blog_title{
+    color: #ad741e;
+    background-color: rgba(226, 162, 43, 0.397);
+}
+
+.container{
+
+    background-repeat: no-repeat;
+
+
+}
+
+
